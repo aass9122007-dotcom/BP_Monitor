@@ -78,8 +78,8 @@ function buildReportHTML() {
       </div>
     </div>
 
-    <div style="background:#FBEEDD; border:1px solid #E9C795; border-radius:8px; padding:12px 16px; font-size:12px; color:#7a5322; margin-bottom:22px;">
-      تنبيه: هذا التقرير مخصص للتوعية ومتابعة القراءات الصحية فقط، ولا يُعد تشخيصًا طبيًا أو بديلًا عن استشارة الطبيب المختص.
+  <div style="background:#FBEEDD; border:1px solid #E9C795; border-radius:8px; padding:12px 16px; font-size:12px; color:#7a5322; margin-bottom:22px;">
+      تنبيه: هذا التقرير مخصص للتوعية ومتابعة القراءات الصحية فقط، ولا يُعد تشخيصًا طبيًا أو بديلًا عن استشارة الطبيب المختص. النطاقات المستخدمة عامة وليست مخصصة للأطفال أو الحوامل أو كبار السن أو مرضى الحالات المزمنة.
     </div>
 
     <h2 style="font-size:17px; color:#12302C; border-inline-start:4px solid #0E6E64; padding-inline-start:10px;">ملخص الإحصائيات</h2>
